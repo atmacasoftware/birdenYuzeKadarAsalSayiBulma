@@ -14,7 +14,7 @@ public class Main {
             }
 
             if (sayi == 0){
-                System.out.println(+i);
+                System.out.print(+i + " ");
             }
         }
     }
